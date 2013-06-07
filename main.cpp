@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <GL/glut.h>
 
-
+//Holy Code
 
 void buat_kotak1()
 {
